@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		836FBA162A37751F00D27A54 /* emergencyAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836FBA152A37751F00D27A54 /* emergencyAppApp.swift */; };
+		836FBA162A37751F00D27A54 /* emergencyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836FBA152A37751F00D27A54 /* emergencyApp.swift */; };
 		836FBA182A37751F00D27A54 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 836FBA172A37751F00D27A54 /* ContentView.swift */; };
 		836FBA1A2A37752100D27A54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836FBA192A37752100D27A54 /* Assets.xcassets */; };
 		836FBA1D2A37752100D27A54 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 836FBA1C2A37752100D27A54 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		836FBA122A37751F00D27A54 /* emergencyApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = emergencyApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		836FBA152A37751F00D27A54 /* emergencyAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = emergencyAppApp.swift; sourceTree = "<group>"; };
+		836FBA152A37751F00D27A54 /* emergencyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = emergencyApp.swift; sourceTree = "<group>"; };
 		836FBA172A37751F00D27A54 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		836FBA192A37752100D27A54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		836FBA1C2A37752100D27A54 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		836FBA142A37751F00D27A54 /* emergencyApp */ = {
 			isa = PBXGroup;
 			children = (
-				836FBA152A37751F00D27A54 /* emergencyAppApp.swift */,
+				836FBA152A37751F00D27A54 /* emergencyApp.swift */,
 				836FBA172A37751F00D27A54 /* ContentView.swift */,
 				836FBA192A37752100D27A54 /* Assets.xcassets */,
 				836FBA1B2A37752100D27A54 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				836FBA182A37751F00D27A54 /* ContentView.swift in Sources */,
-				836FBA162A37751F00D27A54 /* emergencyAppApp.swift in Sources */,
+				836FBA162A37751F00D27A54 /* emergencyApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
